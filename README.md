@@ -23,3 +23,4 @@ Running the tests
 
 Once the project imported in eclipse, run the automated tests by 
 Right Click on your project again. run as -> Maven test
+Trigger the build process in Docker.
